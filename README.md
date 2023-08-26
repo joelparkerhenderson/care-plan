@@ -178,3 +178,14 @@ Handle issues, for example:
 - [ ] File any organ donation plans.
 
 - [ ] Obtain a medical id bracelet.
+
+
+### Specifics for the United States
+
+- [ ] Ensure the person has Medicare, including Medicare Plan A, Medicare Plan B, and a Medicare supplementary insurance plan. Help the person sign up with Medicare.gov.
+
+- [ ] Ensure the person has Social Security, including an original Social Security card, and all applicable benefits. Help the person sign up with SSA.gov.
+
+- [ ] Ensure the person has a current government photo id, such as a U.S. state driver's license, or a state non-driver photo id, or a U.S. passport.
+
+- [ ] Ensure the person has an original birth certificate, because you'll very likely need this for what's coming. If needed, request an original birth certificate from the person's birth state. If the birth state offers multiple kinds of birth certificates, such as "short form" and "long form", then request the "long form" version because it contains more information and is necessary for some kinds of U.S. government processes. Be advised the request may take 1-3 months to be filled.
