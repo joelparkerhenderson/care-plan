@@ -180,6 +180,19 @@ Handle issues, for example:
 - [ ] Obtain a medical id bracelet.
 
 
+### Legal setup - as desired
+
+- [ ] Hire a lawyer who has experience with care plans.
+
+- [ ] Create a will.
+
+- [ ] Create a "Durable Power Of Attorney" (DPOA). This is a legal document that the person signs, that enables other people to care for the person. For example, a lawyer can create a DPOA that authorizes a person's adult childern to care for the person. Any DPOA has many options, such as for medical care, financial care, etc. so you may want to read about DPOAs then discuss the options with the person, the lawyer, and your other involved caregivers.
+
+- [ ] Have the lawyer create original documents with blue ink wet pen signatures, because this works the best in practice. Have the lawyer keep originals in the the lawyer's safe, and provide each of the relevant caregivers with a notarized certified official copy.
+
+- [ ] If any providers have received older legal information, such as a previous version of a will, or a superseded version of a DPOA, then it's very important to update these providers with the new legal documentation.
+
+
 ### Specifics for the United States
 
 - [ ] Ensure the person has Medicare, including Medicare Plan A, Medicare Plan B, and a Medicare supplementary insurance plan. Help the person sign up with Medicare.gov.
