@@ -164,3 +164,17 @@ Handle issues, for example:
 
 - [ ] Refer as needed to a professional such as a lawyer.
 
+
+### Medical treatment setup - as desired
+
+- [ ] Configure the emergency contact information on the person's phone.
+
+- [ ] File any care limit plans, such as advanced directives.
+
+- [ ] File a living will.
+
+- [ ] File a "do not resuscitate" (DNR) order.
+
+- [ ] File any organ donation plans.
+
+- [ ] Obtain a medical id bracelet.
