@@ -48,6 +48,17 @@ Ask caregivers what else is needed for example:
 - [ ] Any other needs, issues, and recommendations?
 
 
+### Hire help if desired
+
+Hire help if you want, and if you can afford it.
+
+- [ ] Hire a lawyer who has experience with care plans and/or elder law and/or estate planning.
+
+- [ ] Hire a private social worker who can work with the person, and with the caregivers, to advise about social support, social services, care placements, and more.
+
+- [ ] Hire an accountant who can manage the finances, ideally including taxes, insurance, payments, bank accounts, benefits disbursements, retirement planning, and more.
+   
+
 ### General medical checkups per year
 
 Do any general checkups.
