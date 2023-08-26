@@ -11,15 +11,15 @@ Constructive advice welcome: joel@joelparkerhenderson.com.
 
 The goal of a care plan is to help a person thrive:
 
-- [ ] Improve the person's quality of life, health, and wellness.
+* Improve the person's quality of life, health, and wellness.
 
-- [ ] Support the person's independence and abilities for daily life tasks.
+* Support the person's independence and abilities for daily life tasks.
 
-- [ ] Mitigate the person's risks of hospitalization or institutionalization.
+* Mitigate the person's risks of hospitalization or institutionalization.
 
-- [ ] Create mutual understanding among a person's family members, friends, and providers.
+* Create mutual understanding among a person's family members, friends, and providers.
 
-- [ ] Help each participant have a better understanding of their role and responsibilities.
+* Help each participant have a better understanding of their role and responsibilities.
 
 
 ## Care for yourself too
@@ -34,6 +34,8 @@ Be aware that care is challenging:
 
 
 ## Care plan checklist
+
+This care plan checklist has many ideas from many sources. Use the ones you want, skip the ones you don't want. If you have suggestions for more, or how to improve these, please let us know so we can make this better: joel@joelparkerhenderson.com.
 
 
 ### Visit in person when you're able
