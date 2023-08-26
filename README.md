@@ -182,7 +182,7 @@ Handle issues, for example:
 
 ### Legal setup - as desired
 
-- [ ] Hire a lawyer who has experience with care plans.
+- [ ] Hire a lawyer who has experience with care plans and/or elder law and/or estate planning.
 
 - [ ] Create a will.
 
@@ -190,7 +190,7 @@ Handle issues, for example:
 
 - [ ] Have the lawyer create original documents with blue ink wet pen signatures, because this works the best in practice. Have the lawyer keep originals in the the lawyer's safe, and provide each of the relevant caregivers with a notarized certified official copy.
 
-- [ ] If any providers have received older legal information, such as a previous version of a will, or a superseded version of a DPOA, then it's very important to update these providers with the new legal documentation.
+- [ ] If any providers have received older legal information, such as a previous version of a will, or an outdated advanced care directive, or a superseded version of a DPOA, then it's very important to update these providers with the new legal documentation.
 
 
 ### Specifics for the United States
