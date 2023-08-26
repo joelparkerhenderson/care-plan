@@ -254,14 +254,50 @@ Handle issues, for example:
 
 ### Specifics for the United States
 
-- [ ] Ensure the person has a U.S. government photo id.
+United States government photo identification:
+
+- [ ] Ensure the person has a U.S. government photo id. This is typically a U.S. state driver's license, or a non-driver's license.
+
+- [ ] If the person is unsafe to drive, then cancel the person's U.S. state driver's license, and replace it with a U.S. state non-driver's license.
+
+- [ ] If the id has a choice to do additional processes, such as automatic sign up for voter registration, or automatic sign up for organ donor registration, then decide on these.
   
 - [ ] If there's any possibility that the person may ever need to take a flight, then ensure the person has a U.S. government REAL ID. The rules for REAL ID are evolving, and in the future a REAL ID may become a requirement for flights, even domestic flights.
 
-- [ ] Ensure the person has Medicare, including Medicare Plan A, Medicare Plan B, and a Medicare supplementary insurance plan. Help the person sign up with Medicare.gov.
+United States birth certificate:
+   
+- [ ] Ensure the person has an original birth certificate. This is because you'll very likely need this for what's coming. 
+  
+- [ ] If needed, request an original birth certificate from the person's birth state. If the birth state offers multiple kinds of birth certificates, such as "short form" and "long form", then request the "long form" version because it contains more information and is necessary for some kinds of U.S. government processes. Be advised the request may take 1-3 months to be filled.
 
-- [ ] Ensure the person has Social Security, including an original Social Security card, and all applicable benefits. Help the person sign up with SSA.gov.
+United States Medicare insurance:
+
+- [ ] Ensure the person has Medicare Part A. In general, it  covers inpatient care in a hospital, skilled nursing facility care, nursing home care, hospice care, and home health care.
+
+- [ ] Ensure the person has Medicare Part B. In general, it covers ambulance services, clinical research, durable medical equipment (DME), mental health, and limited outpatient prescription drugs.
+
+- [ ] Ideally purchase a Medicare supplementary insurance plan. 
+
+- [ ] Ensure the person has a current Medicare card. If you can't locate the card, then order a new one, or help the person generate a printable card at Medicare.gov.
+
+- [ ] Set up automatic billing for Medicare payments. For many people, this can be done via automatic payment from Social Security benefits. For most people, this can be done via automatic payment from the person's bank account.
+
+- [ ] Help the person sign up with the official website of Medicare, which is [Medicare.gov](https://medicare.gov). The website can verify benefits, show itemized billing, generate printable cards, and more.
+
+United States Social Security:
+
+- [ ] Ensure the person has a Social Security number. This is necessary for many other services, such as getting a U.S. bank account.
+
+- [ ] Ensure the person has an original Social Security card. This is helpful for many other services, such as proving the person's identity at a government agency.
+
+- [ ] Ensure the person is receiving Social Security benefits, if possible. Most U.S. elderly citizen residents are entitled to these benefits. Some people have alternatives, such as U.S. California teachers union members for some years, who received California managed pension plans instead of U.S. Social Security.
+
+- [ ] Help the person sign up with  official website of the Social Security Administration, which is [SSA.gov](https://ssa.gov). The website can verify benefits, show itemized billing, generate printable cards, and more.
+
+United States Veterans Affairs (VA):
 
 - [ ] If the person is eligible for Veterans Affairs (VA), then ensure the person has VA care, benefits, records, current credentials, and so on.
-   
-- [ ] Ensure the person has an original birth certificate, because you'll very likely need this for what's coming. If needed, request an original birth certificate from the person's birth state. If the birth state offers multiple kinds of birth certificates, such as "short form" and "long form", then request the "long form" version because it contains more information and is necessary for some kinds of U.S. government processes. Be advised the request may take 1-3 months to be filled.
+
+- [ ] Research if VA benefits extend to family members.
+
+- [ ] Help the person sign up on the official website of Veterans Affairs which is [va.gov](https://va.gov)
