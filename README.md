@@ -22,7 +22,18 @@ The goal of a care plan is to help a person thrive:
 - [ ] Help each participant have a better understanding of their role and responsibilities.
 
 
-## Care
+## Care for yourself too
+
+Be aware that care is challenging:
+
+* Parents may not cooperate or understand. That gets really hard and can burn people out.
+
+* Children may not cooperate or understand. That gets really complex and can interfere with care.
+
+* Providers may not be what you expect. That gets really confusing and can cause mistakes and errors.
+
+
+## Care plan checklist
 
 
 ### Visit in person when you're able
@@ -54,10 +65,10 @@ Hire help if you want, and if you can afford it.
 
 - [ ] Hire a lawyer who has experience with care plans and/or elder law and/or estate planning.
 
-- [ ] Hire a private social worker who can work with the person, and with the caregivers, to advise about social support, social services, care placements, and more.
+- [ ] Hire a social worker who can work with the person, and with the caregivers, to advise about social support, social services, care placements, and more.
 
 - [ ] Hire an accountant who can manage the finances, ideally including taxes, insurance, payments, bank accounts, benefits disbursements, retirement planning, and more.
-   
+
 
 ### General medical checkups per year
 
