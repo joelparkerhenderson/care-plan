@@ -61,7 +61,7 @@ Ask caregivers what else is needed for example:
 
 ### Hire help if desired
 
-Hire help if you want, and if you can afford it.
+Hire help if you want, and if you can afford it, for example:
 
 - [ ] Hire a lawyer who has experience with care plans and/or elder law and/or estate planning.
 
@@ -215,6 +215,17 @@ Handle issues, for example:
 - [ ] Have the lawyer create original documents with blue ink wet pen signatures, because this works the best in practice. Have the lawyer keep originals in the the lawyer's safe, and provide each of the relevant caregivers with a notarized certified official copy.
 
 - [ ] If any providers have received older legal information, such as a previous version of a will, or an outdated advanced care directive, or a superseded version of a DPOA, then it's very important to update these providers with the new legal documentation.
+
+
+### Final arrangements
+
+- [ ] Document what the person wants for final arrangements, such as a burial, or cremation, or a service, or a memorial, etc.
+
+- [ ] Document any specifics such as which site/church/temple/etc., which readings/psalms/passages/songs, which officiants/priests/rabbis/imams/etc., and which guests should be invited.
+
+- [ ] Make arrangements while the person is alive, and document them. This is because some providers offer discounts if the arrangements are made ahead of time, and also because some jurisdictions use different legal semantics when arrangements are ahead of time.
+
+- [ ] Ask the person if they want to write their own obituary. For some people, this can be deeply meaningful. 
 
 
 ### Specifics for the United States
