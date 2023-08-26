@@ -29,15 +29,15 @@ The goal of a care plan is to help a person thrive:
 
 Look for any health-related changes for example:
 
-- [ ] Physical such as mobility, balance, tremor.
+- [ ] Physical changes such as mobility, balance, tremor.
 
-- [ ] Mental such as cognition, memory, mood, fatigue.
+- [ ] Mental changes such as cognition, memory, mood, fatigue.
 
-- [ ] Senorial such as vision, hearing, smell, taste, touch.
+- [ ] Senorial changes such as vision, hearing, smell, taste, touch.
 
-- [ ] Hygenic such as cleanliness, odor, hair/skin/nails.
+- [ ] Hygenic changes such as cleanliness, odor, hair/skin/nails.
 
-- [ ] Medical such as indicators of pain, numbness, infection.
+- [ ] Medical changes such as indicators of pain, numbness, infection.
 
 Ask caregivers what else is needed for example:
 
