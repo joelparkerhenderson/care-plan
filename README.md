@@ -282,7 +282,7 @@ United States Medicare insurance:
 
 - [ ] Set up automatic billing for Medicare payments. For many people, this can be done via automatic payment from Social Security benefits. For most people, this can be done via automatic payment from the person's bank account.
 
-- [ ] Help the person sign up with the official website of Medicare, which is [Medicare.gov](https://medicare.gov). The website can verify benefits, show itemized billing, generate printable cards, and more.
+- [ ] Help the person sign up at the official website of Medicare, which is [Medicare.gov](https://medicare.gov). The website can verify benefits, show itemized billing, generate printable cards, and more.
 
 United States Social Security:
 
@@ -292,7 +292,7 @@ United States Social Security:
 
 - [ ] Ensure the person is receiving Social Security benefits, if possible. Most U.S. elderly citizen residents are entitled to these benefits. Some people have alternatives, such as U.S. California teachers union members for some years, who received California managed pension plans instead of U.S. Social Security.
 
-- [ ] Help the person sign up with  official website of the Social Security Administration, which is [SSA.gov](https://ssa.gov). The website can verify benefits, show itemized billing, generate printable cards, and more.
+- [ ] Help the person sign up at the official website of the Social Security Administration, which is [SSA.gov](https://ssa.gov). The website can verify benefits, show itemized billing, generate printable cards, and more.
 
 United States Veterans Affairs (VA):
 
@@ -300,4 +300,4 @@ United States Veterans Affairs (VA):
 
 - [ ] Research if VA benefits extend to family members.
 
-- [ ] Help the person sign up on the official website of Veterans Affairs which is [va.gov](https://va.gov)
+- [ ] Help the person sign up at the official website of Veterans Affairs which is [va.gov](https://va.gov)
