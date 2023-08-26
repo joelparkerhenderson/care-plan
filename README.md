@@ -241,7 +241,9 @@ Handle issues, for example:
 
 ### Specifics for the United States
 
-- [ ] Ensure the person has a current government photo id, such as a U.S. state driver's license, or a U.S. state non-driver photo id, or a U.S. passport.
+- [ ] Ensure the person has a U.S. government photo id.
+  
+- [ ] If there's any possibility that the person may ever need to take a flight, then ensure the person has a U.S. government REAL ID. The rules for REAL ID are evolving, and in the future a REAL ID may become a requirement for flights, even domestic flights.
 
 - [ ] Ensure the person has Medicare, including Medicare Plan A, Medicare Plan B, and a Medicare supplementary insurance plan. Help the person sign up with Medicare.gov.
 
