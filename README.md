@@ -37,6 +37,18 @@ Be aware that care is challenging:
 
 This care plan checklist has many ideas from many sources. Use the ones you want, skip the ones you don't want. If you have suggestions for more, or how to improve these, please let us know so we can make this better: joel@joelparkerhenderson.com.
 
+Specifics for disabilitiies:
+
+* [Vision disability](vision-disability)
+* [Hearing disability](hearing-disability)
+* [Mobility disability](mobility-disability)
+
+Specifics for the United States:
+
+* [United States Medicare](united-states-medicare)
+* [United States Social Security](united-states-social-security)
+* [United States Veteran Affairs](united-states-veteran-affairs)
+
 
 ### Visit in person when you're able
 
@@ -268,77 +280,3 @@ Handle issues, for example:
 - [ ] Ensure the person has an original birth certificate. This is because you'll very likely need this for what's coming. 
   
 - [ ] If needed, request an original birth certificate. If the birth certificate provider offers multiple kinds of birth certificates, such as "short form" and "long form", then request the "long form" version because it contains more information and is necessary for some kinds of U.S. government processes. Be advised the request may take 1-3 months to be filled.
-
-
-### United States Social Security
-
-Social Security is a U.S. federal program that administers retirement, disability, survivor, and family benefits, and enrolls individuals in Medicare, and provides Social Security Numbers, which are unique identifiers needed to work, handle financial transactions, and determine eligibility for certain government services.
-
-- [ ] Ensure the person has a Social Security number. This is necessary for many other services, such as getting a U.S. bank account.
-
-- [ ] Ensure the person has an original Social Security card. This is helpful for many other services, such as proving the person's identity at a government agency.
-
-- [ ] Ensure the person is receiving Social Security benefits, if possible. Most U.S. elderly citizen residents are entitled to these benefits. Some people have alternatives, such as U.S. California teachers union members for some years, who received California managed pension plans instead of U.S. Social Security.
-
-- [ ] Help the person sign up at the official website of the Social Security Administration, which is [SSA.gov](https://ssa.gov). The website can verify benefits, show itemized billing, generate printable cards, and more.
-
-
-### United States Medicare
-
-Medicare is U.S. federal health insurance for people 65 or older, some younger people with disabilities, and some people with end-stage disease.
-
-- [ ] Ensure the person has Medicare Part A. In general, it  covers inpatient care in a hospital, skilled nursing facility care, nursing home care, hospice care, and home health care.
-
-- [ ] Ensure the person has Medicare Part B. In general, it covers ambulance services, clinical research, durable medical equipment (DME), mental health, and limited outpatient prescription drugs.
-
-- [ ] Ideally purchase a Medicare supplementary insurance plan. 
-
-- [ ] Ensure the person has a current Medicare card. If you can't locate the card, then order a new one, or help the person generate a printable card at Medicare.gov.
-
-- [ ] Set up automatic billing for Medicare payments. For many people, this can be done via automatic payment from Social Security benefits. For most people, this can be done via automatic payment from the person's bank account.
-
-- [ ] Help the person sign up at the official website of Medicare, which is [Medicare.gov](https://medicare.gov). The website can verify benefits, show itemized billing, generate printable cards, and more.
-
-
-### United States Veterans Affairs (VA):
-
-- [ ] If the person is eligible for Veterans Affairs (VA), then ensure the person has VA care, benefits, records, current credentials, and so on.
-
-- [ ] Research if VA benefits extend to family members.
-
-- [ ] Help the person sign up at the official website of Veterans Affairs which is [va.gov](https://va.gov)
-
-
-## Conditions
-
-
-### Vision loss
-
-Most important:
-
-- [ ] Encourage the person to work on changing their habits now, so that the person isn't faced with both the terribleness of losing eyesight and the stress of learning new habits.
-
-- [ ] Ensure the person has a way to take notes that they can later access. This may be as simple as buying a bigger darker thicker pen, or getting a small pendant voice recorder.
-
-- [ ] Talk with your person about any nightmares. Not too many people know that losing your eyesight is often followed by nightmares. Talking about the eyesight-nightmare correlation may help reduce the nightmares.
-
-- [ ] Try learning Braille. For some people, learning Braille is viable, even as an older adult. Braille opens up a new way of reading, both for paper reading and for electronic braille terminal reading.	
-
-Big print:
-
-- [ ] Ask all the person's providers, such as utilities, hospitals, banks, etc. if the provider has a way to switch from normal-size print to large-size print for correspondence, prescriptions, bills, etc.
-
-- [ ] Try big print books, which are available in some bookstores such as by special order, or available online at many booksellers.
-
-Assistive technology:
-
-- [ ] Configure the person's phone to use assistive technologies. For example, iPhones and Android phones have ways to use voice control, such as by saying "Hey Siri" or "OK Google". iPhone also have a feature called VoiceOver that lets you use your phone without looking. Goo
-
-- [ ] Try an e-book reader, such as a Kindle or Kobo, where the user can make the font size bigger.
-
-- [ ] Try Amazon Echo and related voice-interface products, which features speech capabilties, and can be easier for some people to use than their phones for simple tasks such as looking something up on the internet, playing music, or video calling.
-
-- [ ] Try a computer screen reader. Anecdotally, Microsoft Windows has a tendency to move things around for no good reason, which interferes with the person's muscle memory of how to open this or that program. Consider macOS or Linux instead of Windows.
-
-- [ ] Try audio books and podcasts. For example, consider the Audible.com audio books service. If you are technical, you may want to learn about how to convert EPUB/MOBI books with Calibre to DOCX, put them in a shared folder, then use a screen reader to hear them. 
-
