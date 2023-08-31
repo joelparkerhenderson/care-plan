@@ -37,6 +37,19 @@ Be aware that care is challenging:
 
 This care plan checklist has many ideas from many sources. Use the ones you want, skip the ones you don't want. If you have suggestions for more, or how to improve these, please let us know so we can make this better: joel@joelparkerhenderson.com.
 
+Areas:
+
+* [Legal care setup](legal-care-setup)
+* [Birth certificate](birth-certificate)
+* [Government photo identification](government-photo-identification)
+* [Medical history](medical-history)
+
+Specifics for United States agencies:
+
+* [United States Medicare](united-states-medicare)
+* [United States Social Security](united-states-social-security)
+* [United States Veteran Affairs](united-states-veteran-affairs)
+
 Specifics for disabilities:
 
 * [Vision disability](vision-disability)
@@ -46,12 +59,6 @@ Specifics for disabilities:
 Specifics for health conditions:
 
 * [Urinary tract infection (UTI)](urinary-tract-infection)
-
-Specifics for the United States:
-
-* [United States Medicare](united-states-medicare)
-* [United States Social Security](united-states-social-security)
-* [United States Veteran Affairs](united-states-veteran-affairs)
 
 
 ### Visit in person when you're able
@@ -244,19 +251,6 @@ Handle issues, for example:
 - [ ] Obtain a medical id bracelet.
 
 
-### Legal setup - as desired
-
-- [ ] Hire a lawyer who has experience with care plans and/or elder law and/or estate planning.
-
-- [ ] Create a will.
-
-- [ ] Create a "Durable Power Of Attorney" (DPOA). This is a legal document that the person signs, that enables other people to care for the person. For example, a lawyer can create a DPOA that authorizes a person's adult childern to care for the person. Any DPOA has many options, such as for medical care, financial care, etc. so you may want to read about DPOAs then discuss the options with the person, the lawyer, and your other involved caregivers.
-
-- [ ] Have the lawyer create original documents with blue ink wet pen signatures, because this works the best in practice. Have the lawyer keep originals in the the lawyer's safe, and provide each of the relevant caregivers with a notarized certified official copy.
-
-- [ ] If any providers have received older legal information, such as a previous version of a will, or an outdated advanced care directive, or a superseded version of a DPOA, then it's very important to update these providers with the new legal documentation.
-
-
 ### Final arrangements
 
 - [ ] Document what the person wants for final arrangements, such as a burial, or cremation, or a service, or a memorial, etc.
@@ -266,21 +260,3 @@ Handle issues, for example:
 - [ ] Make arrangements while the person is alive, and document them. This is because some providers offer discounts if the arrangements are made ahead of time, and also because some jurisdictions use different legal semantics when arrangements are ahead of time.
 
 - [ ] Ask the person if they want to write their own obituary. For some people, this can be deeply meaningful. 
-
-
-### Government photo identification
-
-- [ ] Ensure the person has an official government photo id. Examples: in the United States, this photo id is typically a U.S. passport, or a U.S. state driver's license, or a U.S. non-driver's license.
-
-- [ ] If the person is unsafe to drive, then cancel the person's U.S. state driver's license, and replace it with a U.S. state non-driver's license.
-
-- [ ] If the id has a choice to do additional processes, such as automatic sign up for voter registration, or automatic sign up for organ donor registration, then decide on these.
-  
-- [ ] If there's any possibility that the person may ever need to take a flight, then ensure the person has a U.S. government REAL ID. The rules for REAL ID are evolving, and in the future a REAL ID may become a requirement for flights, even domestic flights.
-
-
-### Birth certificate
-   
-- [ ] Ensure the person has an original birth certificate. This is because you'll very likely need this for what's coming. 
-  
-- [ ] If needed, request an original birth certificate. If the birth certificate provider offers multiple kinds of birth certificates, such as "short form" and "long form", then request the "long form" version because it contains more information and is necessary for some kinds of U.S. government processes. Be advised the request may take 1-3 months to be filled.
