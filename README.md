@@ -37,11 +37,15 @@ Be aware that care is challenging:
 
 This care plan checklist has many ideas from many sources. Use the ones you want, skip the ones you don't want. If you have suggestions for more, or how to improve these, please let us know so we can make this better: joel@joelparkerhenderson.com.
 
-Specifics for disabilitiies:
+Specifics for disabilities:
 
 * [Vision disability](vision-disability)
 * [Hearing disability](hearing-disability)
 * [Mobility disability](mobility-disability)
+
+Specifics for health conditions:
+
+* [Urinary tract infection (UTI)](urinary-tract-infection)
 
 Specifics for the United States:
 
