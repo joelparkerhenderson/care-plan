@@ -2,6 +2,8 @@
 
 Because our elderly care has so many visits so many doctors and nurses, we update medical records as we go. Here are the items that we're tracking so far.
 
+<form>
+
 Immunizations:
 
 - [ ] <input type="date"> Tdap/Tetanus
@@ -67,3 +69,5 @@ Women typical:
 - [ ] Have you ever had complications during a pregnancy? If yes, explain.
 
 - [ ] Age of menopause, if applicable
+
+</form>
