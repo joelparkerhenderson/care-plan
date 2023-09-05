@@ -1,3 +1,3 @@
 # Hearing disability
 
-TODO
+Please email suggestions to joel@joelparkerhenderson.

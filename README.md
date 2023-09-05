@@ -42,6 +42,7 @@ Areas:
 * [Legal care setup](legal-care-setup)
 * [Birth certificate](birth-certificate)
 * [Government photo identification](government-photo-identification)
+* [Out-of-wallet questions](out-of-wallet-questions)
 * [Medical history](medical-history)
 
 Specifics for United States agencies:
