@@ -45,6 +45,7 @@ Areas:
 * [Government photo identification](doc/government-photo-identification/)
 * [Out-of-wallet questions](doc/out-of-wallet-questions/)
 * [Medical history](doc/medical-history/)
+* [Professional advisors](doc/professional-advisors/)
 * [Assets and liabilities](doc/assets-and-liabilities/)
 
 Specifics for disabilities:
@@ -250,21 +251,6 @@ Handle issues, for example:
 - [ ] File for any disability markers, such as a government handicapped parking placard.
   
 - [ ] File for any service animal needs, such as a government veterinary approval license.
-
-
-### Medical setup - as desired
-
-- [ ] Configure the emergency contact information on the person's phone.
-
-- [ ] File any care limit plans, such as advanced directives.
-
-- [ ] File a living will.
-
-- [ ] File a "do not resuscitate" (DNR) order.
-
-- [ ] File any organ donation plans.
-
-- [ ] Obtain a medical id bracelet.
 
 
 ### Final arrangements
