@@ -49,6 +49,7 @@ Areas:
 * [Professional advisors](doc/professional-advisors/)
 * [Estate trustee](doc/estate-trustee/)
 * [Pets](doc/pets/)
+* [Final arrangements](doc/final-arrangements/)
 
 Specifics for disabilities:
 
@@ -253,14 +254,3 @@ Handle issues, for example:
 - [ ] File for any disability markers, such as a government handicapped parking placard.
   
 - [ ] File for any service animal needs, such as a government veterinary approval license.
-
-
-### Final arrangements
-
-- [ ] Document what the person wants for final arrangements, such as a burial, or cremation, or a service, or a memorial, etc.
-
-- [ ] Document any specifics such as which site/church/temple/etc., which readings/psalms/passages/songs, which officiants/priests/rabbis/imams/etc., and which guests should be invited.
-
-- [ ] Make arrangements while the person is alive, and document them. This is because some providers offer discounts if the arrangements are made ahead of time, and also because some jurisdictions use different legal semantics when arrangements are ahead of time.
-
-- [ ] Ask the person if they want to write their own obituary. For some people, this can be deeply meaningful. 
