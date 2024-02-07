@@ -62,6 +62,19 @@ Specifics for health conditions:
 * [Urinary tract infection (UTI)](urinary-tract-infection)
 
 
+### Healthy Habits
+
+Every day, try to be healthy:
+
+- [ ] Daily exercise. Ideally aerobic (e.g. walking) and strength (e.g. weights).
+
+- [ ] Healthy nutrition. Ideally leafy greens, vitamins, antioxidants, omega 3, etc.
+
+- [ ] Good sleep. Ideally with a sleep monitor. Fix any snoring or sleep apnea.
+
+- [ ] Social involvement. Ideally in-person groups plus and video calls.
+
+
 ### Visit in person when you're able
 
 Look for any health-related changes for example:
@@ -70,7 +83,7 @@ Look for any health-related changes for example:
 
 - [ ] Mental changes such as cognition, memory, mood, fatigue.
 
-- [ ] Senorial changes such as vision, hearing, smell, taste, touch.
+- [ ] Sensorial changes such as vision, hearing, smell, taste, touch.
 
 - [ ] Hygenic changes such as cleanliness, odor, hair/skin/nails.
 
