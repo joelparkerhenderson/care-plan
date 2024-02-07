@@ -47,6 +47,7 @@ Areas:
 * [Out-of-wallet questions](doc/out-of-wallet-questions/)
 * [Medical history](doc/medical-history/)
 * [Professional advisors](doc/professional-advisors/)
+* [Estate trustee](doc/estate-trustee/)
 * [Pets](doc/pets/)
 
 Specifics for disabilities:
