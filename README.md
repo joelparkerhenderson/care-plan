@@ -39,27 +39,29 @@ This care plan checklist has many ideas from many sources. Use the ones you want
 
 Areas:
 
-* [Legal care setup](legal-care-setup)
-* [Birth certificate](birth-certificate)
-* [Government photo identification](government-photo-identification)
-* [Out-of-wallet questions](out-of-wallet-questions)
-* [Medical history](medical-history)
-
-Specifics for United States agencies:
-
-* [United States Medicare](united-states-medicare)
-* [United States Social Security](united-states-social-security)
-* [United States Veteran Affairs](united-states-veteran-affairs)
+* [Legal care plan](doc/legal-care-plan/)
+* [Medical care plan](doc/medical-care-plan/)
+* [Birth certificate](doc/birth-certificate/)
+* [Government photo identification](doc/government-photo-identification/)
+* [Out-of-wallet questions](doc/out-of-wallet-questions/)
+* [Medical history](doc/medical-history/)
+* [Assets and liabilities](doc/assets-and-liabilities/)
 
 Specifics for disabilities:
 
-* [Vision disability](vision-disability)
-* [Hearing disability](hearing-disability)
-* [Mobility disability](mobility-disability)
+* [Vision disability](doc/vision-disability/)
+* [Hearing disability](doc/hearing-disability/)
+* [Mobility disability](doc/mobility-disability/)
+
+Specifics for United States agencies:
+
+* [United States Medicare](doc/united-states-medicare/)
+* [United States Social Security](doc/united-states-social-security/)
+* [United States Veteran Affairs](doc/united-states-veteran-affairs/)
 
 Specifics for health conditions:
 
-* [Urinary tract infection (UTI)](urinary-tract-infection)
+* [Urinary tract infection (UTI)](doc/urinary-tract-infection/)
 
 
 ### Healthy Habits
