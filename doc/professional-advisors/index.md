@@ -8,6 +8,8 @@ Create a list of all the professional advisors such as:
 
 - [ ] Physician
 
+- [ ] Veterinarian
+
 - [ ] Insurance Agent
 
 - [ ] Retirement Administrator

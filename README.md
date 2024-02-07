@@ -41,12 +41,13 @@ Areas:
 
 * [Legal care plan](doc/legal-care-plan/)
 * [Medical care plan](doc/medical-care-plan/)
+* [Financial care plan](doc/financial-care-plan/)
 * [Birth certificate](doc/birth-certificate/)
 * [Government photo identification](doc/government-photo-identification/)
 * [Out-of-wallet questions](doc/out-of-wallet-questions/)
 * [Medical history](doc/medical-history/)
 * [Professional advisors](doc/professional-advisors/)
-* [Assets and liabilities](doc/assets-and-liabilities/)
+* [Pets](doc/pets/)
 
 Specifics for disabilities:
 

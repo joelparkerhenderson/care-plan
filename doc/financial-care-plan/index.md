@@ -1,5 +1,17 @@
-# Assets and liabilities
+# Financial care plan
 
+Gather information about financial providers such as any accountants, banks, brokers, agents, executors:
+
+- [ ] Contact information for each person/institution
+
+- [ ] Ask each person/institution what to do to enable you to help
+
+- [ ] Ask about a Financial Power Of Attorney (FPOA)
+
+- [ ] Enable security, such as credit alerting, strong passwords, account reviews
+
+- [ ] File any authentications and authorizations, such as a Designated Personal Representative, Financial Power Of Attorney, or Guardianship. Ideally you can ask a lawyer to help with these.
+    
 Gather information about assets such as:
 
 - [ ] Bank accounts
@@ -14,7 +26,7 @@ Gather information about assets such as:
 
 - [ ] Safekeeping, such as safety deposit boxes
    
-- [ ] Storage, such as a self-service storage facility
+- [ ] Storage, such as a self-service locker facility
 
 - [ ] Asset beneficiaries
 
