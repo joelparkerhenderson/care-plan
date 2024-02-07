@@ -68,11 +68,11 @@ Every day, try to be healthy:
 
 - [ ] Daily exercise. Ideally aerobic (e.g. walking) and strength (e.g. weights).
 
-- [ ] Healthy nutrition. Ideally leafy greens, vitamins, antioxidants, omega 3, etc.
+- [ ] Good nutrition. Ideally leafy greens, vitamins, antioxidants, omega 3.
 
 - [ ] Good sleep. Ideally with a sleep monitor. Fix any snoring or sleep apnea.
 
-- [ ] Social involvement. Ideally in-person groups plus and video calls.
+- [ ] Social involvement. Ideally in-person groups plus video calls.
 
 
 ### Visit in person when you're able
