@@ -6,25 +6,25 @@ Gather information about assets such as:
 
 - [ ] Investment accounts 
 
-- [ ] Retirement accounts
+- [ ] Retirement accounts, such as pensions
 
 - [ ] Insurance policies
 
-- [ ] Properties
+- [ ] Properties, such as real estate
 
-- [ ] Safety deposit box
+- [ ] Safekeeping, such as safety deposit boxes
    
-- [ ] Storage facility
+- [ ] Storage, such as a self-service storage facility
 
 - [ ] Asset beneficiaries
 
-- [ ] Vehicles
+- [ ] Vehicles, such as cars, motorcycles, boats, etc.
   
 - [ ] Valuables such as art, jewelry, collectables, etc.
 
 Gather information about liabilities such as:
 
-- [ ] Debts
+- [ ] Debts, such as money owed, loans, IOUs, etc.
 
 - [ ] Rents
 
@@ -32,4 +32,9 @@ Gather information about liabilities such as:
 
 - [ ] Scheduled payments
 
+Confirm everything you find with whomever is the executor of the estate:
 
+- [ ] Ensure the executor has everything needed
+  
+- [ ] Revisit all the above each year
+  
