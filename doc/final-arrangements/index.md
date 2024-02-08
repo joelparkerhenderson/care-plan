@@ -23,11 +23,12 @@ Funeral arrangements:
 
 - [ ] Notify family, friends, colleagues, employer, etc. of the plans.
 
+- [ ] Coordinate any funeral purchases, such as flowers, candles, food, drinks, guest books.
+
 - [ ] Coordinate any funeral vendors, such as musicians, photographers, caterers, valets.
 
 - [ ] Coordinate any funeral participants, such as volunteers, speakers, pallbearers, ushers.
 
-- [ ] Coordinate any funeral content, such as the selection of readings, psalms, passages, photos, guest books.
+- [ ] Coordinate any funeral content, such as the selection of readings, psalms, passages, photos.
 
 - [ ] Coordinate any event after the funeral, such as a reception, gathering, wake, or shivah.
-  
