@@ -42,6 +42,7 @@ Areas:
 * [Legal care plan](doc/legal-care-plan/)
 * [Medical care plan](doc/medical-care-plan/)
 * [Financial care plan](doc/financial-care-plan/)
+* [Hospice care plan](doc/hospice-care-plan/)
 * [Birth certificate](doc/birth-certificate/)
 * [Government photo identification](doc/government-photo-identification/)
 * [Out-of-wallet questions](doc/out-of-wallet-questions/)
