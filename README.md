@@ -42,15 +42,22 @@ Areas:
 * [Legal care plan](doc/legal-care-plan/)
 * [Medical care plan](doc/medical-care-plan/)
 * [Financial care plan](doc/financial-care-plan/)
+* [Palliative care plan](doc/palliative-care-plan/)
 * [Hospice care plan](doc/hospice-care-plan/)
+* [Final arrangements](doc/final-arrangements/)
+* [Medical history](doc/medical-history/)
+* [Pets](doc/pets/)
+
+Identity:
+
 * [Birth certificate](doc/birth-certificate/)
 * [Government photo identification](doc/government-photo-identification/)
 * [Out-of-wallet questions](doc/out-of-wallet-questions/)
-* [Medical history](doc/medical-history/)
+
+Helpers:
+
 * [Professional advisors](doc/professional-advisors/)
 * [Estate trustee](doc/estate-trustee/)
-* [Pets](doc/pets/)
-* [Final arrangements](doc/final-arrangements/)
 
 Specifics for disabilities:
 

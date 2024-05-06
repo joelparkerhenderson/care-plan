@@ -25,7 +25,7 @@ Hospice is comfort care without curative intent. This is when the patient no lon
 
 - [ ] What is the current plan for inpatient hospice care? For example, if symptoms cannot be managed at home, then inpatient hospice care facilities offer the support of an acute-care facility with homelike amenities.
 
-- [ ] What is the curren plan for respite hospice care? For eaxmple, during respite care, patients spend a short time in a Medicare-certified inpatient hospice setting so their primary caregivers can take a break. Respite care hospice support helps caregivers avoid burnout and provide care more efficiently.
+- [ ] What is the curren plan for respite hospice care? For example, during respite care, patients spend a short time in a Medicare-certified inpatient hospice setting so their primary caregivers can take a break. Respite care hospice support helps caregivers avoid burnout and provide care more efficiently.
 
 
 
