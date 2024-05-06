@@ -1,3 +1,3 @@
 # Mobility disability
 
-Please email suggestions to joel@joelparkerhenderson.
+Please email suggestions to joel@joelparkerhenderson.com.
