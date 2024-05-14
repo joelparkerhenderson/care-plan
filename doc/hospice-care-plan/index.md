@@ -28,5 +28,23 @@ Hospice is comfort care without curative intent. This is when the patient no lon
 - [ ] What is the curren plan for respite hospice care? For example, during respite care, patients spend a short time in a Medicare-certified inpatient hospice setting so their primary caregivers can take a break. Respite care hospice support helps caregivers avoid burnout and provide care more efficiently.
 
 
+## Guidelines
+
+- [ ] Read this about pain: "Pain is estimated to be the most prevalent symptom preceding all deaths occurring in a palliative care setting. Strong opioids are a safe and effective treatment for moderate to severe pain in adults, if used appropriately. However, individual patient responses vary making dose titration an important aspect of pain management. Constipation, nausea and other adverse effects are common and should be managed pre-emptively." and
+  
+- [ ] Read this about pain under-treatement: "Pain is increasingly regarded as the fifth vital sign and all patients in palliative care should be carefully assessed for pain to prevent under-treatment and reduced quality of life."
+  
+- [ ] Read this about opioids: "Opioids are indicated for pain in palliative care. Opiods are also indicated for the treatment of breathlessness in palliative care. For further information see: "Managing breathlessness in palliative care", BPJ 47, 2012-10. 
+
+- [ ] Create the palliative management plan as above, including how the care is to be manged pre-emptively. Ensure the management plan is on file with the relevant providers, such as the doctor's office, hospital, hospice facility, etc.  Typical medications are opioids such as hydrocodone (which is weak) or morphine (which is strong) or equivalents.
 
 
+## Prescriptions
+
+- [ ] Get prescriptions on file ahead of time. If the doctor wants, have the doctor mark the prescriptions on file as "Pro re nata" a.k.a. "PRN" a.k.a. "as needed". Doing this helps ensure the prescriptions are available for the patient at the time of care.
+
+- [ ] Get a prescription on file for a pain medication.
+
+- [ ] Get a prescription on file for a breathlessness medication.
+
+- [ ] Get a prescription on file for an anxiety medication.

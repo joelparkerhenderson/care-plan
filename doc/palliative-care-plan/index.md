@@ -45,3 +45,14 @@ Palliative care at a day facility is when the palliative nursing and rehabilitat
 ### Palliative care at a hospital
 
 Hospitals provide short-term palliative care until a discharge plan is in place. palliative care in hospitals is often delivered over a short-term period. Depending on your condition and your needs, your support will either be overseen by specialist teams or a single nurse. Palliative care teams in hospitals will monitor discharge plans and arrange for individuals to be transferred to receive palliative care in hospices, care homes or in their own home.
+
+
+## Prescriptions
+
+- [ ] Get prescriptions on file ahead of time. If the doctor wants, have the doctor mark the prescriptions on file as "Pro re nata" a.k.a. "PRN" a.k.a. "as needed". Doing this helps ensure the prescriptions are available for the patient at the time of care.
+
+- [ ] Get a prescription on file for a pain medication.
+
+- [ ] Get a prescription on file for a breathlessness medication.
+
+- [ ] Get a prescription on file for an anxiety medication.
