@@ -1,6 +1,6 @@
 # Specialist medical checkups
 
-Do any specialist checkups, such as for specific medical conditions.
+Do any specialist medical checkups, such as for specific medical conditions.
 
 * This can be with the person's referral physicians.
 

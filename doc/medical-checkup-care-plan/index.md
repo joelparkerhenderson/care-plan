@@ -4,7 +4,7 @@ Medical checkups are generally two kinds:
 
 * General medical checkups, such as with a general practitioner or primary care provider, such as for a wellness physical exam each year.
 
-* Specialist medical checkups
+* Specialist medical checkups, such as with a referral practitioner or secondary care provider, such as for treating specific medical conditions.
 
 
 ## General medical checkups
