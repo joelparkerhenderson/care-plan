@@ -55,11 +55,15 @@ Areas:
 * [Medical care plan](doc/medical-care-plan/)
 * [Financial care plan](doc/financial-care-plan/)
 * [Government care plan](doc/government-care-plan/)
+* [Medical history](doc/medical-history/)
+* [Pets](doc/pets/)
+
+End of life care plans:
+
 * [Palliative care plan](doc/palliative-care-plan/)
 * [Hospice care plan](doc/hospice-care-plan/)
 * [Final arrangements](doc/final-arrangements/)
-* [Medical history](doc/medical-history/)
-* [Pets](doc/pets/)
+* [Probate process](doc/probate-process/)
 
 Health provider care plans:
 

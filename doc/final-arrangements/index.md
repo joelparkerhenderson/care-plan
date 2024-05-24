@@ -32,3 +32,20 @@ Funeral arrangements:
 - [ ] Coordinate any funeral content, such as the selection of readings, psalms, passages, photos.
 
 - [ ] Coordinate any event after the funeral, such as a reception, gathering, wake, or shivah.
+
+
+Funeral coordination:
+
+- [ ] Who is sending invitations?
+
+- [ ] Who is managing RSVPs?
+
+- [ ] Who is coordinating the event space?
+
+- [ ] Who is coordinating the caterer/potluck or food/drink?
+
+- [ ] Who is coordinating the photographer/videographer or photos/videos?
+
+- [ ] Who is bringing the guestbook?
+
+- [ ] Who is bringing existing photos/videos?
