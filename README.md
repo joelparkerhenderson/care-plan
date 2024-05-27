@@ -87,6 +87,7 @@ Specifics for disabilities:
 * [Vision disability](doc/vision-disability/)
 * [Hearing disability](doc/hearing-disability/)
 * [Mobility disability](doc/mobility-disability/)
+* [What to say to stop sundowning](doc/what-to-say-to-stop-sundowning/)
 
 Specifics for United States agencies:
 
