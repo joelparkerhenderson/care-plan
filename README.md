@@ -82,11 +82,15 @@ Helpers:
 * [Professional advisors](doc/professional-advisors/)
 * [Estate trustee](doc/estate-trustee/)
 
-Specifics for disabilities:
+For disabilities:
 
 * [Vision disability](doc/vision-disability/)
 * [Hearing disability](doc/hearing-disability/)
 * [Mobility disability](doc/mobility-disability/)
+
+For dementia:
+
+* [Dementia triggers](doc/dementia-triggers/)
 * [What to say to stop sundowning](doc/what-to-say-to-stop-sundowning/)
 
 Specifics for United States agencies:
