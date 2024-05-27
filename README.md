@@ -91,6 +91,7 @@ For disabilities:
 For dementia:
 
 * [Dementia triggers](doc/dementia-triggers/)
+* [Dementia behavior responses](doc/dementia-behavior-responses/)
 * [What to say to stop sundowning](doc/what-to-say-to-stop-sundowning/)
 
 Specifics for United States agencies:
