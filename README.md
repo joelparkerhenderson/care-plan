@@ -57,6 +57,10 @@ Areas:
 * [Government care plan](doc/government-care-plan/)
 * [Medical history](doc/medical-history/)
 * [Pets](doc/pets/)
+
+Long term care:
+
+* [Finding the right care facility](doc/finding-the-right-care-facility/)
 * [Common mistakes when planning for long term care](doc/common-mistakes-when-planning-for-long-term-care/)
 
 End of life care plans:
