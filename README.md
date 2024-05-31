@@ -83,6 +83,12 @@ Identity:
 * [Government photo identification](doc/government-photo-identification/)
 * [Out-of-wallet questions](doc/out-of-wallet-questions/)
 
+Specifics for United States agencies:
+
+* [United States Medicare](doc/united-states-medicare/)
+* [United States Social Security](doc/united-states-social-security/)
+* [United States Veteran Affairs](doc/united-states-veteran-affairs/)
+
 Helpers:
 
 * [Professional advisors](doc/professional-advisors/)
@@ -99,13 +105,8 @@ For dementia:
 * [Dementia triggers](doc/dementia-triggers/)
 * [Dementia behavior responses](doc/dementia-behavior-responses/)
 * [What to say to stop sundowning](doc/what-to-say-to-stop-sundowning/)
+* [Activity ideas for dementia caregiving/](doc/activity-ideas-for-dementia-caregiving/)
 
-Specifics for United States agencies:
-
-* [United States Medicare](doc/united-states-medicare/)
-* [United States Social Security](doc/united-states-social-security/)
-* [United States Veteran Affairs](doc/united-states-veteran-affairs/)
-
-Specifics for health conditions:
+For health conditions:
 
 * [Urinary tract infection (UTI)](doc/urinary-tract-infection/)
