@@ -43,6 +43,7 @@ Start here:
 * [Visit in person](doc/visit-in-person/)
 * [Create healthy habits](doc/create-healthy-habits/)
 * [Brighten days](doc/brighten-days/)
+* [Stages of care](doc/stages-of-care/)
 
 Recurring affairs:
 
