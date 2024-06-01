@@ -155,3 +155,29 @@ dignity, considering hospice or home modifications if necessary.
 
 - [ ] **Celebrate.** Celebrate your loved one's life and legacy, cherishing
 shared moments and lessons as sources of comfort and connection.
+
+
+## Stage 7: Complete the legacy
+
+- [ ] **Execute Legal Documents.** Ensure wills, trusts, and other legal
+documents are in order, executing them according to your loved one's wishes.
+
+- [ ] **Settle the Estate.** Work with an estate attorney or executor to manage
+the distribution of assets, resolve any debts, and complete other necessary
+financial tasks.
+
+- [ ] **Honor Memories.** Take time to organize and distribute personal
+belongings in a way that honors your loved one's memory, perhaps by donating
+items to charity or sharing special mementos with family and friends.
+
+- [ ] **Create a Legacy Project.** Consider establishing a scholarship, planting
+a memorial garden, or starting a charitable fund in your loved one's name to
+keep their spirit alive and benefiting others.
+
+- [ ] **Reflect and Share Stories.** Use the "Memory Moment" to gather with
+those who knew your loved one best. Share stories, photos, and memories that
+celebrate their life and legacy.
+
+- [ ] **Continue self-care.** Continue to prioritize self-care and seek support
+from friends, family, or professionals as you navigate this final stage of
+caregiving.
