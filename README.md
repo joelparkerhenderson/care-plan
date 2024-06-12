@@ -62,6 +62,7 @@ Areas:
 Long term care:
 
 * [Finding the right care facility](doc/finding-the-right-care-facility/)
+* [Choosing a care home](doc/choosing-a-care-home/)
 * [Common mistakes when planning for long term care](doc/common-mistakes-when-planning-for-long-term-care/)
 
 End of life care plans:
