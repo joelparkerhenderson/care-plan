@@ -84,11 +84,12 @@ Identity:
 * [Government photo identification](doc/government-photo-identification/)
 * [Out-of-wallet questions](doc/out-of-wallet-questions/)
 
-Specifics for United States agencies:
+Specifics for jurisdictions:
 
 * [United States Medicare](doc/united-states-medicare/)
 * [United States Social Security](doc/united-states-social-security/)
 * [United States Veteran Affairs](doc/united-states-veteran-affairs/)
+* [United Kingdom: Court of Protection](doc/united-kingdom-court-of-protection/)
 
 Helpers:
 
