@@ -1,4 +1,4 @@
-# Dental care plan 
+# Dental care plan
 
 Do any dental checkups, such as a cleaning every six months.
 

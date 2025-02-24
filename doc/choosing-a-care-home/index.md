@@ -1,4 +1,4 @@
-# Choosing a care home 
+# Choosing a care home
 
 Source: Questions to consider when choosing a care home - By Ashbrook Care Home.
 

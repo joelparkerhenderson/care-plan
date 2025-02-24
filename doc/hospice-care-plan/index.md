@@ -1,6 +1,6 @@
 # Hospice
 
-Hospice is comfort care without curative intent. This is when the patient no longer has curative options or has chosen not to pursue treatment because the side effects outweigh the benefits. 
+Hospice is comfort care without curative intent. This is when the patient no longer has curative options or has chosen not to pursue treatment because the side effects outweigh the benefits.
 
 - [ ] What are the person's wishes for care near end of life?
 
@@ -11,15 +11,15 @@ Hospice is comfort care without curative intent. This is when the patient no lon
 - [ ] Choose one responsible person to make decisions if your loved one can’t talk or express.
 
 - [ ] What are the person's wishes for handling pain?
-  
+ 
 - [ ] What do the person's providers need for documentation?
-  
+ 
 - [ ] What are the current payment plans for hospice?
 
 
 ## Types of hospice care
 
-- [ ] What is the current plan for home hospice care? For example, routine visits from a home hospice care team ensure comfort and dignity. Diagnosis-specific equipment, supplies, and medication are provided at home. 
+- [ ] What is the current plan for home hospice care? For example, routine visits from a home hospice care team ensure comfort and dignity. Diagnosis-specific equipment, supplies, and medication are provided at home.
 
 - [ ] What is the current plan for continuous hospice care? For example, when medically necessary, hospice providers must offer continuous hospice care provides 24/7 help to manage patients’ acute symptoms and avoid hospitalization until routine services can resume.
 
@@ -31,10 +31,10 @@ Hospice is comfort care without curative intent. This is when the patient no lon
 ## Guidelines
 
 - [ ] Read this about pain: "Pain is estimated to be the most prevalent symptom preceding all deaths occurring in a palliative care setting. Strong opioids are a safe and effective treatment for moderate to severe pain in adults, if used appropriately. However, individual patient responses vary making dose titration an important aspect of pain management. Constipation, nausea and other adverse effects are common and should be managed pre-emptively." and
-  
+ 
 - [ ] Read this about pain under-treatement: "Pain is increasingly regarded as the fifth vital sign and all patients in palliative care should be carefully assessed for pain to prevent under-treatment and reduced quality of life."
-  
-- [ ] Read this about opioids: "Opioids are indicated for pain in palliative care. Opiods are also indicated for the treatment of breathlessness in palliative care. For further information see: "Managing breathlessness in palliative care", BPJ 47, 2012-10. 
+ 
+- [ ] Read this about opioids: "Opioids are indicated for pain in palliative care. Opiods are also indicated for the treatment of breathlessness in palliative care. For further information see: "Managing breathlessness in palliative care", BPJ 47, 2012-10.
 
 - [ ] Create the palliative management plan as above, including how the care is to be manged pre-emptively. Ensure the management plan is on file with the relevant providers, such as the doctor's office, hospital, hospice facility, etc.  Typical medications are opioids such as hydrocodone (which is weak) or morphine (which is strong) or equivalents.
 

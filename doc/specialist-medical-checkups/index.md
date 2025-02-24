@@ -22,4 +22,4 @@ Handle issues, for example:
 - [ ] Bone health tests, such as Dual-energy X-ray absorptiometry (DEXA) for osteoporosis
 
 - [ ] Cancer detection tests, such as breast mammogram imaging or prostate biopsy
-  
+ 

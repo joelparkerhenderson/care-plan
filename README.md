@@ -44,6 +44,7 @@ Start here:
 * [Create healthy habits](doc/create-healthy-habits/)
 * [Brighten days](doc/brighten-days/)
 * [Stages of care](doc/stages-of-care/)
+* [Disaster preparedness](doc/disaster-preparedness/)
 
 Recurring affairs:
 
@@ -77,10 +78,12 @@ Health provider care plans:
 * [Vision care plan](doc/vision-care-plan/)
 * [Dental care plan](doc/dental-care-plan/)
 * [Medical checkup care plan](doc/medical-checkup-care-plan/)
+* [Right to die](doc/right-to-die/)
 
 Identity:
 
 * [Birth certificate](doc/birth-certificate/)
+* [Death certificate](doc/death-certificate/)
 * [Government photo identification](doc/government-photo-identification/)
 * [Out-of-wallet questions](doc/out-of-wallet-questions/)
 

@@ -14,14 +14,14 @@ Do any general medical checkups.
 * This is typically done with the person's general practitioner or primary care provider.
 
 * This can be for a typical wellness physical exam each year.
-  
+ 
 - [ ] Sensory checks, such as vision, hearing, smell, taste, balance.
 
 - [ ] Heart checks, such as pulse, heart rate, blood pressure.
 
 - [ ] Lung checks, such as breathing rate, tidal volume, stethoscope sounds.
 
-- [ ] Electrolyte levels, such as sodium, potassium, chloride, magnesium, calcium, phosphate, bicarbonates. 
+- [ ] Electrolyte levels, such as sodium, potassium, chloride, magnesium, calcium, phosphate, bicarbonates.
 
 - [ ] Nutrient levels, such as iron, vitamin C, vitamin B12, phosphorous.
 
@@ -62,6 +62,6 @@ Handle issues, for example:
 - [ ] Bone health tests, such as Dual-energy X-ray absorptiometry (DEXA) for osteoporosis.
 
 - [ ] Cancer detection tests, such as breast mammogram imaging or prostate biopsy.
-  
+ 
 - [ ] Cardiac health tests, such as a stress test, echocardiogram, or heart rate monitoring.
 

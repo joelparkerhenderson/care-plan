@@ -11,9 +11,9 @@ Gather information about financial providers such as any accountants, banks, cre
 - [ ] Enable security, such as credit alerting, strong passwords, account reviews.
 
 - [ ] Include any financial websites, such as PayPal, Venmo, Zelle.
-  
+ 
 - [ ] Request information about any linked accounts, such as for automatic debits, bank-to-bank transfers, or recurring payments.
-  
+ 
 - [ ] Request a login to each provider's app and website. This helps you monitor spending, address liabilities, and flag problems.
 
 - [ ] File any authentications and authorizations, such as a Designated Personal Representative, Financial Power Of Attorney, or Guardianship. Ideally ask a lawyer to help with these.
@@ -22,7 +22,7 @@ Gather information about assets such as:
 
 - [ ] Bank accounts
 
-- [ ] Investment accounts 
+- [ ] Investment accounts
 
 - [ ] Retirement accounts, such as pensions
 
@@ -31,13 +31,13 @@ Gather information about assets such as:
 - [ ] Properties, such as real estate
 
 - [ ] Safekeeping, such as safety deposit boxes
-   
+  
 - [ ] Storage, such as a self-service locker facility
 
 - [ ] Asset beneficiaries
 
 - [ ] Vehicles, such as cars, motorcycles, boats, etc.
-  
+ 
 - [ ] Valuables such as art, jewelry, collectables, etc.
 
 Gather information about liabilities such as:
@@ -47,7 +47,7 @@ Gather information about liabilities such as:
 - [ ] Rents
 
 - [ ] Automatic deductions
-  
+ 
 - [ ] Recurring transfers
 
 - [ ] Scheduled payments
@@ -55,10 +55,10 @@ Gather information about liabilities such as:
 - [ ] Charity donations
 
 - [ ] Taxes
-  
+ 
 Protect your loved one from elder abuse fraud such as:
 
-- [ ] Automatic deductions to a fake provider, such as a "neighborhood handyman" or "healthcare group retainer". 
+- [ ] Automatic deductions to a fake provider, such as a "neighborhood handyman" or "healthcare group retainer".
 
 - [ ] Scheduled payments to a fake service, such as a fake "home security system" or fake "medical insurance plan".
 
@@ -81,6 +81,6 @@ If you discover any unknown transactions or suspicious activity, then you should
 Confirm everything you find with whomever is the executor of the estate:
 
 - [ ] Ensure the executor has everything needed
-  
+ 
 - [ ] Revisit all the above each year
-  
+ 

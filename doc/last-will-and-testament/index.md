@@ -139,7 +139,7 @@ Wills and trusts are both important estate-planning tools, but they differ in im
 
 A trust can be created for a variety of functions, and there are many types of trusts. Overall, there are two categories: living and testamentary. A will can be used to create a testamentary trust. You can also create a revocable living trust for the primary purpose of avoiding probate court.
 
-A will becomes active only after one's death. A trust, on the other hand, becomes active the day you create it. Trusts tend to be more expensive to create and maintain than wills. 
+A will becomes active only after one's death. A trust, on the other hand, becomes active the day you create it. Trusts tend to be more expensive to create and maintain than wills.
 
 Importantly, unlike wills, trusts do not go through a probate process and are not usually a matter of public record. A trust, however, can only deal with property or assets that are assigned to it.
 
@@ -193,4 +193,4 @@ A last will and testament is a fundamental legal document in an individual's est
 
 There are certain things a will cannot accomplish for a person, such as help a family avoid probate or reduce estate taxes.
 
-Wills can be simple to create but have requirements that must be addressed in order for them to be considered valid. Please check your state laws regarding a last will and testament to be sure you take the right steps when creating yours. 
+Wills can be simple to create but have requirements that must be addressed in order for them to be considered valid. Please check your state laws regarding a last will and testament to be sure you take the right steps when creating yours.

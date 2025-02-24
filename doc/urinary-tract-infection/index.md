@@ -1,14 +1,18 @@
 # Urinary tract infection (UTI)
 
-A urinary tract infection (UTI) is an infection in any part of the urinary system. The urinary system includes the kidneys, ureters, bladder and urethra. 
+A urinary tract infection (UTI) is an infection in any part of the urinary system. The urinary system includes the kidneys, ureters, bladder and urethra.
 
-Most infections involve the lower urinary tract — the bladder and the urethra. If an infection is limited to the lower bladder, it can be painful and annoying. But serious health problems can result if a UTI spreads to the kidneys.
+Most infections involve the lower urinary tract — the bladder and the urethra. If an infection is limited to the lower bladder, it can be painful and annoying. But serious health problems can result if a UTI spreads to the kidneys, or if a UTI leads to sepsis.
 
 Health care providers often treat urinary tract infections with antibiotics. You can also take steps to lower the chance of getting a UTI in the first place.
 
 Check with your healthcare provider about any potential UTI. We prepared for talking with  healthcare providers by reading this writeup about UTIs and treatments: [link](https://westessexccg.nhs.uk/your-health/medicines-optimisation-and-pharmacy/clinical-guidelines-and-prescribing-formularies/05-infections/2514-antibiotic-prophylaxis-guidelines-for-recurrent-urinary-tract-infections-in-adults/file)
 
 If the person has a UTI, or symptoms of a UTI, or a health incident that is correlated with getting a UTI, then here is the care plan we are currently using.
+
+General advice:
+
+- [ ] If possible, take showers instead of baths, to avoid the risk of infection.
 
 Before treatment:
 

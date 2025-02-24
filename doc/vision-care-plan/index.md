@@ -1,8 +1,8 @@
-# Vision care plan 
+# Vision care plan
 
 Do any vision checkups, such as an eyesight test every year.
 
-This can be with the person's optometrist or eye doctor. 
+This can be with the person's optometrist or eye doctor.
 
 - [ ] Do vision test.
 

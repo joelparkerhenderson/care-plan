@@ -1,11 +1,11 @@
 # Final arrangements
 
 - [ ] Document where to find the will.
-  
+ 
 - [ ] Document who is the executor and how to contact them.
-  
-- [ ] Document what the person wants for final arrangements, such as a burial, or cremation, or a service, or a memorial, etc. 
-  
+ 
+- [ ] Document what the person wants for final arrangements, such as a burial, or cremation, or a service, or a memorial, etc.
+ 
 - [ ] Document what the person wants for final events, such as a guest reception, or friends gathering, or social wake, or sitting shiva.
 
 - [ ] Document any specifics such as which site/church/temple/etc., which readings/psalms/passages/songs, which officiants/priests/rabbis/imams/etc., which volunteers/speakers/pallbearers, which vendors/musicians/photographers, which guests should be invited and how to contact them.
@@ -14,9 +14,9 @@
 
 - [ ] Ask the person if they want any kind of outreach to anyone now, to ask for help, or to give advice, or to be involved.
 
-- [ ] Ask the person if they want to write their own obituary. For some people, this can be deeply meaningful. 
+- [ ] Ask the person if they want to write their own obituary. For some people, this can be deeply meaningful.
 
-  
+ 
 Funeral arrangements:
 
 - [ ] Inform the funeral home or funeral director of the plans.

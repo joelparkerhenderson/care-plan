@@ -5,7 +5,7 @@ Most important:
 - [ ] Document the [final arrangements](../final-arrangements/).
 
 First steps after death:
-  
+ 
 - [ ] Locate the Will.
 
 - [ ] Notify family, friends, colleagues, employer, etc.

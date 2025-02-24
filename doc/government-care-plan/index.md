@@ -7,5 +7,5 @@ Government interactions can be complex for a person who is elderly, or ill, or n
 - [ ] File any relevant paperwork with government agencies, such as to claim benefits, request social services, and report disabilities.
 
 - [ ] File for any disability markers, such as a government handicapped parking placard.
-  
+ 
 - [ ] File for any service animal needs, such as a government veterinary approval license.

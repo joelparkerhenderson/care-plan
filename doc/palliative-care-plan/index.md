@@ -1,6 +1,6 @@
 # Palliative care
 
-Palliative care is comfort care with or without curative intent. This is when the patient needs specialized medical care that focuses on providing relief from pain and other symptoms of a serious illness or medical treatment. 
+Palliative care is comfort care with or without curative intent. This is when the patient needs specialized medical care that focuses on providing relief from pain and other symptoms of a serious illness or medical treatment.
 
 - [ ] What are the current plans for when the person needs palliative care?
 
@@ -11,9 +11,9 @@ Palliative care is comfort care with or without curative intent. This is when th
 - [ ] Choose one responsible person to make decisions if your loved one can’t talk or express.
 
 - [ ] What are the person's wishes for handling pain?
-  
+ 
 - [ ] What do the person's providers need for documentation?
-  
+ 
 - [ ] What are the current payment plans for palliative care?
 
 

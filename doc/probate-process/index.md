@@ -11,11 +11,11 @@ Keep in mind that the probate process and timeline will vary depending on the st
 
 ## Step 1: File a petition to begin probate.
 
-- [ ] File a request in the county where the deceased person lived at the time of their death. 
+- [ ] File a request in the county where the deceased person lived at the time of their death.
 
-The paperwork will ask for you to be officially acknowledged as the legal executor representing the estate. In addition to the petition, you’ll need to file a valid will, if one exists, and the death certificate. 
+The paperwork will ask for you to be officially acknowledged as the legal executor representing the estate. In addition to the petition, you’ll need to file a valid will, if one exists, and the death certificate.
 
-- [ ] Wait for the court will schedule a hearing to approve the executor (or hear objections from other parties). 
+- [ ] Wait for the court will schedule a hearing to approve the executor (or hear objections from other parties).
 
 If you’re approved as executor, the court will officially open the probate case and you will now be able to act on behalf of the deceased’s estate.
 
@@ -23,7 +23,7 @@ If you’re approved as executor, the court will officially open the probate cas
 ## Step 2: Give notice.
 
 
-- [ ] Mail a notice that the estate is in probate to all creditors, beneficiaries and heirs (as required by the court). 
+- [ ] Mail a notice that the estate is in probate to all creditors, beneficiaries and heirs (as required by the court).
 
 - [ ] Publish a notice in the newspaper. This is a requirement in some jurisdictions.
 
@@ -63,7 +63,7 @@ Collect, inventory and appraise all assets that are subject to probate and prese
 
 ## Step 6: Close the estate.
 
-- [ ] Submit receipts and records of everything to the court. 
+- [ ] Submit receipts and records of everything to the court.
 
 - [ ] Ask the court for the estate to be closed.
 

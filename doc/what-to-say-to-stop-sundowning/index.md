@@ -55,7 +55,7 @@ Step 4 to try: Give the person space.
 - [ ] "Do you want time for yourself?"
 
 - [ ] "I'll give you a little bit to calm down, I'll be back in 10 minutes"
-  
+ 
 Step 5 to try: Call the doctor or nurse.
 
 - [ ] "Can we check for any medical issues/pain?"

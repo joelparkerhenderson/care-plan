@@ -45,7 +45,7 @@ with an existing physical or cognitive impairment.
 Accepting that an illness, injury or the natural effect of aging necessitates
 needing help and leaving home (and the safety it brings) can be very difficult.
 To help reduce the anxiety or sadness a move like this can create, consider
-where your loved one would want to be. 
+where your loved one would want to be.
 
 * Living downtown or in the suburbs?
 
@@ -95,11 +95,11 @@ their rooms or sitting on their own?
 
 Meet staff:
 
-- [ ] Are they friendly with you and the residents? 
+- [ ] Are they friendly with you and the residents?
 
 - [ ] Do they greet you, smile, and make eye contact?
 
-- [ ] How do they get a resident’s attention? 
+- [ ] How do they get a resident’s attention?
 
 - [ ] Are they active on the floor or congregated in a nursing station?
 
@@ -109,7 +109,7 @@ Activities:
 
 - [ ] What kinds of activities are offered?
 
-- [ ] Do activities accommodate different levels of ability? 
+- [ ] Do activities accommodate different levels of ability?
 
 - [ ] Are activities occurring daily? Confirm they actually happen.
 
@@ -121,7 +121,7 @@ Activities:
 
 Physical set up:
 
-- [ ] Is the setting more clinical or more residential? 
+- [ ] Is the setting more clinical or more residential?
 
 - [ ] Does the setting feel like home?
 
@@ -139,7 +139,7 @@ Cleanliness:
 
 - [ ] Are the floors, walls, surfaces, etc. clean?
 
-- [ ] Are the public bathrooms clean? 
+- [ ] Are the public bathrooms clean?
 
 - [ ] Does the facility meet your expectation of cleanliness?
 
@@ -156,11 +156,11 @@ Dementia:
 
 Costs:
 
-- [ ] What is the basic monthly cost? 
+- [ ] What is the basic monthly cost?
 
-- [ ] What are the added costs if a family member needs extra help with medications or treatment? 
+- [ ] What are the added costs if a family member needs extra help with medications or treatment?
 
-- [ ] What are the community fees, such as a one-time payment that covers the administrative cost of moving someone into the facility and refurbishing a room for that person? 
+- [ ] What are the community fees, such as a one-time payment that covers the administrative cost of moving someone into the facility and refurbishing a room for that person?
 
 - [ ] What fees are refundable if your loved one doesn't want to stay?
 

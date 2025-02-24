@@ -47,7 +47,7 @@ For example, the person is accusing you or someone else of something.
 What to Say:
 
 1. Don't defend yourself or show evidence/use logic.
-   
+  
 2. Speak to the feelings behind the accusation.
 
 3. Give space if needed to cool off and then offer to help.

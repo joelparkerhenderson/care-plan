@@ -9,7 +9,7 @@ If your loved one has pets, then gather information about each pet:
 - [ ] Daily instructions, such as for feeding, grooming, walking.
 
 - [ ] Medical information, such as for prescriptions, treatments, allergies.
-  
+ 
 - [ ] Favorites, such as favorite treats, toys, accessories, games.
 
 - [ ] Any providers such as a veterinarian, dog walker, groomer, boarder.
@@ -21,7 +21,7 @@ If your loved one has pets, then gather information about each pet:
 Ask for the veterinarian's help:
 
 - [ ] Do any updates to the pet's records, tags, licenses, prescriptions, vaccines.
- 
+
 - [ ] Ask if the vet has any care plan advice.
 
 - [ ] Review each year.
@@ -31,7 +31,7 @@ Provide for the pet:
 - [ ] Allocate money to continue to care for the pets.
 
 - [ ] Consider creating a bank account that is specific to the pets.
-  
+ 
 - [ ] Consider any charitable donations to pet charities.
 
 - [ ] Set up legal beneficiary designations.

@@ -26,4 +26,4 @@ Assistive technology:
 
 - [ ] Try a computer screen reader. Anecdotally, Microsoft Windows has a tendency to move things around for no good reason, which interferes with the person's muscle memory of how to open this or that program. Consider macOS or Linux instead of Windows.
 
-- [ ] Try audio books and podcasts. For example, consider the Audible.com audio books service. If you are technical, you may want to learn about how to convert EPUB/MOBI books with Calibre to DOCX, put them in a shared folder, then use a screen reader to hear them. 
+- [ ] Try audio books and podcasts. For example, consider the Audible.com audio books service. If you are technical, you may want to learn about how to convert EPUB/MOBI books with Calibre to DOCX, put them in a shared folder, then use a screen reader to hear them.

@@ -6,7 +6,7 @@ Medicare is U.S. federal health insurance for people 65 or older, some younger p
 
 - [ ] Ensure the person has Medicare Part B. In general, it covers ambulance services, clinical research, durable medical equipment (DME), mental health, and limited outpatient prescription drugs.
 
-- [ ] Ideally purchase a Medicare supplementary insurance plan. 
+- [ ] Ideally purchase a Medicare supplementary insurance plan.
 
 - [ ] Ensure the person has a current Medicare card. If you can't locate the card, then order a new one, or help the person generate a printable card at Medicare.gov.
 
