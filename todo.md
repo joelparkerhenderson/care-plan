@@ -35,3 +35,76 @@ Anticipate changes needed in living arrangements developed to ensure the continu
 Managing the connections between support services, healthcare providers and the aging individual to ensure that the loved one receives the necessary care and monitoring.
 
 A plan for ongoing monitoring and reassessment.  Families, especially those who don’t live nearby their aging parents, should make sure that they receive periodic reports about their loved ones.  Regular reassessments should be scheduled to address any changes in the older person’s physical, mental or psycho-social needs.  Special attention should be paid to the need for immediate modification in the event of a drastic change in the older person’s health.
+
+###
+
+If You Already Have a Will
+• Is your current Will out of date?
+_ Have you moved to a new province?
+• Has your net worth or employment status changed?
+• Have you recently married or had children?
+• Do you want to add or remove any beneficiaries?
+
+Getting Started
+• Have you chosen a lawyer?
+• Have you used a tax advisor to minimize current tax and the tax your estate will have to pay?
+• If you do not have a lawyer or tax advisor, the Development Office of the Archdiocese of Toronto keeps a list of professionals in your area.
+
+• Principal residence (current market value)
+
+
+
+
+_ Do you own your own business? What is its value?
+• Are you expecting any inheritances?
+Create a Summary of Your Liabilities
+• List all your debts, including: mortgages, credit cards, car loans, credit lines, etc.
+Your Estate Trustee
+• Have you chosen your Estate Trustee and asked him/her if they are willing and able to serve?
+• Does your Estate Trustee know where your Will is kept?
+• Will your Estate Trustee have the authority to invest your assets until the final disbursement is done? Do you want restrictions placed?
+Guardian of Your Children
+• Have you named a Guardian of your minor children?
+• Do you have an alternate Guardian in case your first choice is unable or unwilling to serve?
+• Have you told your Guardian the importance of making sure your children are raised in the Catholic faith and receive all their Sacraments?
+
+Your Beneficiaries
+• If you are married, have you left your RRSPs or RRIFs to your spouse or dependent child?
+• Are the beneficiaries of the assets in your Will consistent with the beneficiary listing in the attached plans (e.g., RRSPs, insurance policies)?
+• Are there personal items that you would like a certain family member or friend to have?
+• Do you need a testamentary trust for your spouse or dependent child?
+• Does a beneficiary require special care?
+_ Have you included your parish or favourite archdiocesan
+charity in your Will?
+_ Have you notified the Development Office of your bequest intention so you can be included in the Legacy Society of the Archdiocese of Toronto?
+
+
+Questions to Ask Your Lawyer:
+
+- [ ] How can you reduce probate?
+
+- [ ] How can you reduce your estate's income tax?
+
+- [ ] Should you have a disaster clause in case of an accident?
+
+- [ ] If you have a business, do you need a succession plan?
+
+
+Other Issues
+
+- [ ] If you want to be an organ donor, have you signed a donor card and told your family of your wishes?
+
+- [ ] Do you need a Power of Attorney for Management of Property?
+
+- [ ] Do you need a Power of Attorney for Personal Care (or Living Will)?
+
+• Have you shared your wishes with your family?
+
+Final Arrangements
+Have you pre-planned your funeral and burial
+arrangements with Catholic Cemeteries & Funeral Services - Archdiocese of Toronto? If you have not pre-planned, opening a file costs you nothing.
+Have you informed your Estate Trustee and family that you want a Catholic Funeral Mass and a Catholic burial?
+Have you considered your parish and /or favourite
+archdiocesan charity as your in lieu of flowers designation?
+Have you identified who will be the individuals involved in the Funeral Mass/Service, e.g., Pastor, Lectors, Offertory Gifts, Pall bearers, etc.?
+_ Have you identified the hymns and readings to be used?
