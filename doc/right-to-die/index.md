@@ -16,6 +16,24 @@ Some forms of voluntary euthanasia are legal in some countries, such as Australi
 
 The United States Patient Self-Determination Act does permit elderly Medicare/Medicaid patients (and by implication, all "terminal" patients) to prepare an advance directive in which they elect or choose to refuse life-extending and/or life-saving treatments as a means of shortening their lives and thus suffering unto certain death.
 
-Some U.S. states have passed laws related to right to die, and to physician-assisted suicide. Some examples are the
-California End of Life Option Act, Hawaii Our Care Our Choice Act, and Oregon Death with Dignity Act.
-  
+Some U.S. states have passed laws related to right to die, and to physician-assisted suicide.
+
+Examples:
+
+- California: End of Life Option Act
+
+- Colorado: End of Life Options Act
+
+- District of Columbia: D.C. Death with Dignity Act
+- Hawaii: Our Care Our Choice Act
+
+- Maine: Death with Dignity Act
+
+- New Jersey: Aid in Dying for the Terminally Ill Act
+
+- New Mexico: Elizabeth Whitefield End of Life Options Act
+
+- Oregon: Death with Dignity Act
+- Vermont: Patient Choice and Control at the End of Life Act
+
+- Washington: Death with Dignity Act
